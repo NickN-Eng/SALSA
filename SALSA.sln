@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SALSA.GH", "SALSA.GH\SALSA.GH.csproj", "{CFAB142C-D5AC-4FE2-ADB9-7BCFECF4B9CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SALSA.SqliteBinaries", "SALSA.SqliteBinaries\SALSA.SqliteBinaries.csproj", "{53ADC87A-9D84-4423-B80E-40EE71DAB4D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SALSA.WPF", "SALSA.WPF\SALSA.WPF.csproj", "{C1891DF9-596B-4DB4-B6A1-5A903FA5E38C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFAB142C-D5AC-4FE2-ADB9-7BCFECF4B9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAB142C-D5AC-4FE2-ADB9-7BCFECF4B9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAB142C-D5AC-4FE2-ADB9-7BCFECF4B9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAB142C-D5AC-4FE2-ADB9-7BCFECF4B9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53ADC87A-9D84-4423-B80E-40EE71DAB4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53ADC87A-9D84-4423-B80E-40EE71DAB4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53ADC87A-9D84-4423-B80E-40EE71DAB4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53ADC87A-9D84-4423-B80E-40EE71DAB4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1891DF9-596B-4DB4-B6A1-5A903FA5E38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1891DF9-596B-4DB4-B6A1-5A903FA5E38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1891DF9-596B-4DB4-B6A1-5A903FA5E38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1891DF9-596B-4DB4-B6A1-5A903FA5E38C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38C8759C-5E26-424E-A4C7-F188130A001E}
+	EndGlobalSection
+EndGlobal
